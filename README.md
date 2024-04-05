@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **Singhisha2510@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_fy92hiDejxFGiUVX200JQt0kki63riI/view?usp=share_link](https://drive.google.com/file/d/1_fy92hiDejxFGiUVX200JQt0kki63riI/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1iIttePE2WOMnjb6-y-_piFm9tbxnEGj_/view?usp=sharing](my resume)
 
 - ⚡ Fun fact **I've never lost a fight against a grizzly bear.**
 
