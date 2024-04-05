@@ -18,6 +18,8 @@
 
 - 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1iIttePE2WOMnjb6-y-_piFm9tbxnEGj_/view?usp=sharing)
 
+- 🌐 [My Portfolio](https://singh25isha.github.io/ishasingh/)
+
 - ⚡ Fun fact **I've never lost a fight against a grizzly bear.**
 
 <h3 align="left">Connect with me:</h3>
