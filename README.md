@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **Singhisha2510@gmail.com**
 
-- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1iIttePE2WOMnjb6-y-_piFm9tbxnEGj_/view?usp=sharing)
+- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1uGp8uBM_ymN6EuIdxHYq0Q8fwrIJ8eQy/view?usp=drive_link)
 
 - 🌐 [My Portfolio](https://singh25isha.github.io/ishasingh/)
 
