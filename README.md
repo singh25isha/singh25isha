@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isha Singh</h1>
-<h3 align="center">A passionate Software developer from New York</h3>
+<h3 align="center">A passionate Software developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singh25isha" alt="singh25isha" /></a> </p>
 
